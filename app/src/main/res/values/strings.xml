@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <!--    splash screen-->
+    <string name="splash_h1">SMART LABOURER ATTENDANCE</string>
+    <string name="splash_h2">PAYMENT AND VALIDATION SYSTEM</string>
+    <string name="splash_h3">(AADHAAR AND GIS BASED )</string>
+    <string name="splash_h4">This System Facilitates Smooth ,Controlled, Accurate, Internet Of Things Based And Transparent Attendance Of The Labourers(Field Based) Of The J&amp;K LCMA As Under The Directions Of Hon\'ble VC Of JnK LCMA.</string>
+    <!--    register page screen-->
+    <string name="register_h1">LABOUR ENROLMENT </string>
+    <string name="register_h2">Name</string>
+    <string name="register_h3">Mobile Number</string>
+    <string name="register_h4">Scan &amp; Register</string>
+    <string name="register_h5">HOW TO USE?</string>
+    <string name="register_h6">HOW TO USE?</string>
+    <string name="register_h7">Step 1</string>
+    <string name="register_h8">Step 2</string>
+    <!--    scan page-->
+    <string name="scan_h1">LABOUR ATTENDANCE</string>
+    <string name="scan_h2">SCAN FOR ATTENDANCE</string>
+    <!--    reigster page-->
+    <string name="signup_h1">Register</string>
+    <string name="signup_h2">Name</string>
+    <string name="signup_h3">Mobile Number</string>
+    <string name="signup_h4">REGISTER</string>
+    <!--    login page-->
+    <string name="login_h1">Login</string>
+    <!--    home page -->
+    <string name="welcome">Welcome! Dr. Nishant [Chairman]</string>
+
+    <string name="nishant">Ram babu</string>
+</resources>
